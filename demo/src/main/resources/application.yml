@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo
+server:
+  port: 9090
+
+file:
+  storage:
+    folders:
+      - org-logos
+      - admin-pics
+      - leave-attachments
